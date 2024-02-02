@@ -42,5 +42,5 @@ Deploy smart contract, and confirm that it successfully deployed.
 In this section, we will test its functionality. After each step, capturing a screenshot of the execution, and then save it in a folder named Execution_Results. 
 
 ![Alt text](Capture1.PNG)
-![Alt text](Capture2.PNG)
-![Alt text](Capture3.PNG)
+![Alt text](Capture 2.PNG)
+![Alt text](Capture 3.PNG)

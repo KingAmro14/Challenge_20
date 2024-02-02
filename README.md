@@ -43,4 +43,4 @@ In this section, we will test its functionality. After each step, capturing a sc
 
 ![Alt text](Capture1.PNG)
 ![Alt text](Capture2.PNG)
-![Alt text](Capture 3.PNG)
+![Alt text](Capture3.PNG)
